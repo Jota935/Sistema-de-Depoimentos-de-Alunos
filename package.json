@@ -1,0 +1,22 @@
+{
+  "name": "sistema-depoimentos-alunos",
+  "version": "1.0.0",
+  "description": "API ExpressJS para gestão de depoimentos de alunos",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "express",
+    "api",
+    "depoimentos",
+    "alunos"
+  ],
+  "author": "Grupo T6",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
